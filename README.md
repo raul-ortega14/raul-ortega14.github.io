@@ -1,2 +1,3 @@
-# project0
-project0 for cs50 web programming course
+# Project 0
+
+Web Programming with Python and JavaScript
